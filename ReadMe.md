@@ -31,7 +31,7 @@ The findPrimeNumbers function takes an array of numbers as input and filters out
 It returns a new array containing only the prime numbers from the original array, preserving their order.
 
 ## Live Site
-github.com/GeraldKisilu/Gerald-WK2-Code-Challenge
+https://geraldkisilu.github.io/Gerald-WK2-Code-Challenge/
 
 ## Technology Used
 1. HTML
