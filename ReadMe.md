@@ -1,4 +1,4 @@
-# CODE CHALLENGE (WEEK ONE)
+# CODE CHALLENGE (WEEK TWO)
 
 ## AUTHOR
 [Gerald Kisilu](https://geraldkisilu.github.io/Gerald-WK2-Code-Challenge/)
