@@ -1,7 +1,7 @@
 # CODE CHALLENGE (WEEK ONE)
 
 ## AUTHOR
-[Gerald Kisilu](github.com/GeraldKisilu/Gerald-WK2-Code-Challenge)
+[Gerald Kisilu](https://geraldkisilu.github.io/Gerald-WK2-Code-Challenge/)
 
 ## Description
 
